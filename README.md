@@ -32,11 +32,6 @@
 
 ## 🛠️ Selected projects
 
-### KariArielApp
-- Desktop app in **Python** for customer, device and finance management.
-- GUI: **CustomTkinter / PySide6**. Backend: Python, Database: **Supabase**.
-- Manages ~6000 client records. Reduced manual-entry errors ≈ 30%.
-
 ### Turnera Médica
 - Appointment scheduling system in **Java**.
 - Handles weekly appointments with validations and persistence.
